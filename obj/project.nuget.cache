@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5VJPrvlOApawQKwCCgnDuWYbbQVhN8s9L6xADmAmfIYz/oaXLrzaD6msbQuBqfogEqAVKhUihz7OuVDDVtTI3w==",
+  "dgSpecHash": "HF65CWC2dcDYn0JDvyjJiul49NlqfIRtVNFJ+BVn5d+rxQlt8ddCQu8I2vM/GPj1NXYaNwxEmyftqn5wmSdR5g==",
   "success": true,
-  "projectFilePath": "/home/ubuntu/app/aspnetcoreapp/aspnetcoreapp.csproj",
+  "projectFilePath": "/home/ubuntu/app/POC/aspnetcoreapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

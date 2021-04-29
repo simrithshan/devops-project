@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ubuntu/app/aspnetcoreapp/aspnetcoreapp.csproj",
+      "projectUniqueName": "/home/ubuntu/app/POC/aspnetcoreapp.csproj",
       "projectName": "aspnetcoreapp",
-      "projectPath": "/home/ubuntu/app/aspnetcoreapp/aspnetcoreapp.csproj",
+      "projectPath": "/home/ubuntu/app/POC/aspnetcoreapp.csproj",
       "packagesPath": "/home/ubuntu/.nuget/packages/",
-      "outputPath": "/home/ubuntu/app/aspnetcoreapp/obj/",
+      "outputPath": "/home/ubuntu/app/POC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ubuntu/.nuget/NuGet/NuGet.Config"
